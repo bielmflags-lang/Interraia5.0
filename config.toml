@@ -1,0 +1,13 @@
+project_id = "drqbclcjbxiquvgfeiwf"
+
+[functions.chat-support]
+verify_jwt = false
+
+[functions.generate-itinerary]
+verify_jwt = false
+
+[functions.send-welcome-email]
+verify_jwt = false
+
+[functions.search-hotels]
+verify_jwt = false
